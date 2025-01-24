@@ -35,6 +35,10 @@ layout: default
         {% if page.profile.more_info %}
           <div class="more-info">{{ page.profile.more_info }}</div>
         {% endif %}
+        {% if site.enable_pic_social %}
+          <!-- Social Icons -->
+          <div class="contact-icons social">{% include social.liquid %}</div>
+        {% endif %}
       </div>
     {% endif %}
 
@@ -59,7 +63,7 @@ layout: default
     <!-- Selected papers -->
     {% if page.selected_papers %}
       <h2>
-        <a href="{{ '/publications/' | relative_url }}" style="color: inherit">selected publications</a>
+        <a href="{{ '/publications/' | relative_url }}" style="color: inherit">Publications</a>
       </h2>
       {% include selected_papers.liquid %}
     {% endif %}
