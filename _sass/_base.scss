@@ -193,16 +193,18 @@ ul.task-list input[type="checkbox"] {
 // Profile
 
 .profile {
-  width: 100%;
+  text-align: center;
 
   .more-info {
-    margin-bottom: 5px;
-    margin-top: 5px;
+    // width: 100%;
+    margin:0 auto;
+    // margin-bottom: 5px;
+    // margin-top: 5px;
     font-family: monospace;
 
     p {
       display: inline-block;
-      margin: 0;
+      margin:0 auto;
     }
   }
 }
@@ -519,7 +521,7 @@ footer.sticky-bottom {
 
       .badge {
         color: var(--global-card-bg-color) !important;
-        background-color: var(--global-theme-color) !important;
+        background-color: var(--global-other-color) !important;
       }
     }
   }
