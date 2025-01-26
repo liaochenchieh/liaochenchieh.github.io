@@ -28,20 +28,20 @@
       "highlights": []
     },
     {
-      "name": "ACES, Inc.",
-      "position": "Algorithm Engineer",
-      "url": "https://acesinc.co.jp/",
-      "startDate": "2022-07",
-      "endDate": "2024-02",
-      "summary": "",
-      "highlights": []
-    },
-    {
       "name": "NAVER Cloud",
       "position": "AI Researcher",
       "url": "https://www.navercloudcorp.com/lang/en/",
       "startDate": "2022-09",
       "endDate": "2023-03",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "ACES, Inc.",
+      "position": "Algorithm Engineer",
+      "url": "https://acesinc.co.jp/",
+      "startDate": "2022-07",
+      "endDate": "2024-02",
       "summary": "",
       "highlights": []
     }
