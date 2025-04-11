@@ -1,6 +1,15 @@
 {
   "work": [
     {
+      "name": "Institute of Science Tokyo",
+      "position": "Researcher",
+      "url": "https://www.isct.ac.jp/en",
+      "startDate": "2025-04",
+      "endDate": "",
+      "summary": "",
+      "highlights": []
+    },
+    {
       "name": "Cygames, Inc.",
       "position": "Associate Researcher",
       "url": "https://www.cygames.co.jp/en/",
@@ -54,7 +63,7 @@
       "area": "",
       "studyType": "Ph.D. in Computer Science",
       "startDate": "2022-04",
-      "endDate": "",
+      "endDate": "2025-03",
       "score": "10",
       "courses": []
     },
