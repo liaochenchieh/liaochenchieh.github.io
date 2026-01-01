@@ -27,7 +27,10 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
-Hi, my name is Chen-Chieh Liao (廖振傑). I am currently a postdoctoral researcher at the [Institute of Science Tokyo](https://www.isct.ac.jp/en), under the supervision of Prof. Dr. [Hideki Koike](https://www.vogue.cs.titech.ac.jp/koike). I am also serving as an associate researcher at [Cygames](https://www.cygames.co.jp/en/). I completed my Ph.D. in Computer Science at the Institute of Science Tokyo in 2025. Prior to this, I received both my B.E. and M.S. degrees in Computer Science from Tokyo Institute of Technology in 2020 and 2022, respectively.
+Hi, my name is Chen-Chieh Liao (廖振傑). I am currently an Assistant Professor at the [Institute of Science Tokyo](https://www.isct.ac.jp/en).
+<!-- under the supervision of Prof. Dr. [Hideki Koike](https://www.vogue.cs.titech.ac.jp/koike).  -->
+<!-- I am also serving as an associate researcher at [Cygames](https://www.cygames.co.jp/en/).  -->
+I completed my Ph.D. in Computer Science at the Institute of Science Tokyo in 2025. Prior to this, I received both my B.E. and M.S. degrees in Computer Science from Tokyo Institute of Technology in 2020 and 2022, respectively.
 My research focuses on human-computer interaction, mixed/augmented reality, visual computing, and machine learning, with a particular interest in developing novel approaches to integrate these fields in innovative and impactful systems.
 
 <!-- Hi, my name is Chen-Chieh Liao (廖振傑). I am a postdoctoral researcher at [Institute of Science Tokyo](https://www.isct.ac.jp/en), supervised by Prof. Dr. [Hideki Koike](https://www.vogue.cs.titech.ac.jp/koike). I am also an associate researcher at Cygames Research. I received my Ph.D. Computer Science from Institute of Science Tokyo. I received my B.E. and M.S. degree in Computer Science at Tokyo Institute of Technology in 2020 and 2022. My research interests lie in human-computer interaction, mixed/augmented reality, visual computing and machine learning. -->

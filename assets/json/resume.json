@@ -2,18 +2,9 @@
   "work": [
     {
       "name": "Institute of Science Tokyo",
-      "position": "Researcher",
+      "position": "Research Assistant Professor",
       "url": "https://www.isct.ac.jp/en",
-      "startDate": "2025-04",
-      "endDate": "",
-      "summary": "",
-      "highlights": []
-    },
-    {
-      "name": "Cygames, Inc.",
-      "position": "Associate Researcher",
-      "url": "https://www.cygames.co.jp/en/",
-      "startDate": "2024-01",
+      "startDate": "2026-01",
       "endDate": "",
       "summary": "",
       "highlights": []
@@ -33,6 +24,24 @@
       "url": "",
       "startDate": "2022-02",
       "endDate": "",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "Institute of Science Tokyo",
+      "position": "Researcher",
+      "url": "https://www.isct.ac.jp/en",
+      "startDate": "2025-04",
+      "endDate": "2025-12",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "Cygames, Inc.",
+      "position": "Associate Researcher",
+      "url": "https://www.cygames.co.jp/en/",
+      "startDate": "2024-01",
+      "endDate": "2025-08",
       "summary": "",
       "highlights": []
     },
