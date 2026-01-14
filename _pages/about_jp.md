@@ -2,8 +2,8 @@
 layout: about
 title: 日本語
 permalink: /jp
-# nav: true
-# nav_order: 0
+nav: true
+nav_order: 0
 toc:
   sidebar: left
 
