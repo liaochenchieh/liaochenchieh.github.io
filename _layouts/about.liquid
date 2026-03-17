@@ -2,17 +2,6 @@
 layout: default
 ---
 <div class="post">
-  <header class="post-header">
-    <h1 class="post-title">
-      {% if site.title == 'blank' %}
-        <span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }}
-        {{ site.last_name }}
-      {% else %}
-        {{ site.title }}
-      {% endif %}
-    </h1>
-    <p class="desc">{{ page.subtitle }}</p>
-  </header>
 
   <article>
     {% if page.profile %}
@@ -86,6 +75,16 @@ layout: default
             </div>
           </div>
         {% endfor %}
+
+        {% if page.selected_papers %}
+          <a class="anchor" id="publications"></a>
+          <div class="card mt-3 p-3">
+            <h3 class="card-title font-weight-medium">Publications</h3>
+            <div>
+              {% include selected_papers.liquid %}
+            </div>
+          </div>
+        {% endif %}
       </div>
     </article>
 
