@@ -395,6 +395,9 @@ ninja.data = [{
           section: "News",},{id: "news-two-papers-were-accepted-to-chi-2026-see-you-in-barcelona",
           title: 'Two papers were accepted to CHI 2026. See you in Barcelona!',
           description: "",
+          section: "News",},{id: "news-our-paper-motion-style-slider-was-accepted-to-eccv-2026",
+          title: 'Our paper, Motion Style Slider, was accepted to ECCV 2026!',
+          description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
@@ -440,6 +443,11 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "projects-motion-style-slider",
+          title: 'Motion Style Slider',
+          description: "Continuous style-intensity control for human motion diffusion.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/motion-style-slider/";
             },},{
         id: 'social-email',
         title: 'email',
