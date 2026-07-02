@@ -62,6 +62,20 @@ _styles: |
 
   .mss-authors {
     font-size: 1rem;
+    line-height: 1.7;
+    margin-bottom: 0.8rem;
+  }
+
+  .mss-affiliations {
+    color: var(--mss-muted);
+    font-size: 0.94rem;
+    line-height: 1.65;
+    margin-bottom: 0.75rem;
+  }
+
+  .mss-note {
+    color: var(--mss-muted);
+    font-size: 0.88rem;
     margin-bottom: 1.5rem;
   }
 
@@ -90,11 +104,6 @@ _styles: |
     background: var(--mss-accent-dark);
     border-color: var(--mss-accent-dark);
     transform: translateY(-2px);
-  }
-
-  .mss-button-placeholder {
-    cursor: default;
-    opacity: 0.58;
   }
 
   .mss-teaser {
@@ -207,18 +216,28 @@ _styles: |
     <h1 class="mss-title">Motion Style Slider</h1>
     <p class="mss-subtitle">Endpoint-Supervised Continuous Style Control for Human Motion Diffusion</p>
     <p class="mss-authors">
-      <a href="https://liaochenchieh.com/" target="_blank" rel="noopener"><strong>Chen-Chieh Liao</strong></a>,
-      <a href="https://puckikk1202.github.io/" target="_blank" rel="noopener">Yichen Peng</a>,
-      Yiyi Cai, Yûi Ono, Hiroki Hanaokai,
-      <a href="https://erwinwu.com/" target="_blank" rel="noopener">Erwin Wu</a>,
-      <a href="https://www.vogue.cs.titech.ac.jp/koike" target="_blank" rel="noopener">Hideki Koike</a>,
+      <a href="https://liaochenchieh.com/" target="_blank" rel="noopener"><strong>Chen-Chieh Liao</strong></a><sup>1,3,*</sup>,
+      <a href="https://puckikk1202.github.io/" target="_blank" rel="noopener">Yichen Peng</a><sup>1</sup>,
+      Yiyi Cai<sup>2</sup>,
+      <a href="https://orcid.org/0000-0002-8243-7753" target="_blank" rel="noopener">Yûi Ono</a><sup>3</sup>,
+      <a href="https://orcid.org/0000-0001-8286-5013" target="_blank" rel="noopener">Hiroki Hanaoka</a><sup>3</sup>,
+      <a href="https://erwinwu.com/" target="_blank" rel="noopener">Erwin Wu</a><sup>1</sup>,
+      <a href="https://www.vogue.cs.titech.ac.jp/koike" target="_blank" rel="noopener">Hideki Koike</a><sup>1</sup>,
       and
-      <a href="https://www.linkedin.com/in/shuichi-kurabayashi-b6467123/" target="_blank" rel="noopener">Shuichi Kurabayashi</a>
+      <a href="https://orcid.org/0000-0001-5967-7727" target="_blank" rel="noopener">Shuichi Kurabayashi</a><sup>3</sup>
+    </p>
+    <p class="mss-affiliations">
+      <sup>1</sup>Institute of Science Tokyo &nbsp;&nbsp;
+      <sup>2</sup>The University of Tokyo &nbsp;&nbsp;
+      <sup>3</sup>Cygames, Inc.
+    </p>
+    <p class="mss-note">
+      <sup>*</sup>The work was partially done during an internship at Cygames, Inc.
     </p>
     <div class="mss-actions">
-      <span class="mss-button mss-button-placeholder" aria-disabled="true">
-        <i class="fa-solid fa-file-pdf"></i> Paper coming soon
-      </span>
+      <a class="mss-button" href="{{ '/assets/pdf/motion-style-slider-eccv-2026.pdf' | relative_url }}" target="_blank" rel="noopener">
+        <i class="fa-solid fa-file-pdf"></i> Paper
+      </a>
     </div>
     <img
       class="mss-teaser"
@@ -233,8 +252,8 @@ _styles: |
       Motion Style Slider is a motion-to-motion diffusion framework for fine-grained control of style intensity.
       Given a content motion and a stylized endpoint, the model generates a continuous family of motions controlled
       by a scalar value, from neutral behavior through the target style and into stronger out-of-range reactions.
-      The control is relative and monotonic, matching the way animators naturally ask for a motion to be “a little
-      more” or “a little less” expressive.
+      The control is relative and monotonic, matching the way artists and directors naturally ask for a motion to be
+      “a little more” or “a little less” expressive.
     </p>
 
     <div class="mss-points">
@@ -293,16 +312,26 @@ _styles: |
         Qualitative comparisons with representative motion-style transfer baselines at multiple style intensities.
       </figcaption>
     </figure>
+
+    <figure class="mss-figure">
+      <img
+        src="{{ '/assets/img/motion-style-slider/cross-content.png' | relative_url }}"
+        alt="Cross-content qualitative results for Motion Style Slider."
+        loading="lazy"
+      >
+      <figcaption>
+        Cross-content stylization examples showing the same style-control mechanism across different source motions.
+      </figcaption>
+    </figure>
   </section>
 
   <section class="mss-section">
     <h2>Citation</h2>
-    <p>The proceedings information will be updated with the camera-ready release.</p>
     <pre class="mss-citation"><code>@inproceedings{liao2026motionstyleslider,
   title     = {Motion Style Slider: Endpoint-Supervised Continuous
                Style Control for Human Motion Diffusion},
   author    = {Liao, Chen-Chieh and Peng, Yichen and Cai, Yiyi and
-               Ono, Yûi and Hanaokai, Hiroki and Wu, Erwin and
+               Ono, Yûi and Hanaoka, Hiroki and Wu, Erwin and
                Koike, Hideki and Kurabayashi, Shuichi},
   booktitle = {European Conference on Computer Vision (ECCV)},
   year      = {2026}
