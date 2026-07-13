@@ -234,6 +234,11 @@ _styles: |
     <p class="mss-note">
       <sup>*</sup>The work was partially done during an internship at Cygames, Inc.
     </p>
+    <div class="mss-actions">
+      <a class="mss-button" href="{{ '/assets/pdf/motion-style-slider-eccv-2026.pdf' | relative_url }}" target="_blank" rel="noopener">
+        <i class="fa-solid fa-file-pdf"></i> Paper
+      </a>
+    </div>
     <img
       class="mss-teaser"
       src="{{ '/assets/img/motion-style-slider/teaser.png' | relative_url }}"
