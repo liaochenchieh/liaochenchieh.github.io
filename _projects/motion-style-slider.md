@@ -210,6 +210,54 @@ _styles: |
     white-space: pre-wrap;
   }
 
+  html[data-theme="dark"] .mss-page {
+    --mss-ink: #f4efe3;
+    --mss-muted: #c5d0c8;
+    --mss-accent: #ff9a75;
+    --mss-accent-dark: #ffbc9f;
+    --mss-paper: #26352f;
+  }
+
+  html[data-theme="dark"] .mss-hero {
+    background:
+      radial-gradient(circle at 84% 16%, rgba(255, 154, 117, 0.2), transparent 34%),
+      linear-gradient(135deg, #202b27 0%, #151c1a 100%);
+    border-color: rgba(244, 239, 227, 0.14);
+  }
+
+  html[data-theme="dark"] .mss-button {
+    background: #f4efe3;
+    border-color: #f4efe3;
+    color: #17221d !important;
+  }
+
+  html[data-theme="dark"] .mss-button:hover {
+    background: var(--mss-accent-dark);
+    border-color: var(--mss-accent-dark);
+    color: #17221d !important;
+  }
+
+  html[data-theme="dark"] .mss-teaser {
+    box-shadow: 0 18px 50px rgba(0, 0, 0, 0.32);
+  }
+
+  html[data-theme="dark"] .mss-figure {
+    background: #202a26;
+    border-color: rgba(244, 239, 227, 0.12);
+    box-shadow: 0 16px 45px rgba(0, 0, 0, 0.26);
+  }
+
+  html[data-theme="dark"] .mss-point {
+    background: var(--mss-paper);
+    border: 1px solid rgba(244, 239, 227, 0.1);
+  }
+
+  html[data-theme="dark"] .mss-citation {
+    background: #101614;
+    border: 1px solid rgba(244, 239, 227, 0.12);
+    color: #eef4ef;
+  }
+
   @media (max-width: 767px) {
     .mss-page {
       margin-top: -0.5rem;
