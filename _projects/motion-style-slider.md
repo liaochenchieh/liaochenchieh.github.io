@@ -33,7 +33,7 @@ _styles: |
   }
 
   .mss-kicker {
-    color: var(--mss-accent-dark);
+    color: var(--mss-accent-dark) !important;
     font-size: 0.82rem;
     font-weight: 700;
     letter-spacing: 0.16em;
@@ -42,7 +42,7 @@ _styles: |
   }
 
   .mss-title {
-    color: var(--mss-ink);
+    color: var(--mss-ink) !important;
     font-family: Georgia, "Times New Roman", serif;
     font-size: clamp(2.35rem, 6vw, 5.4rem);
     font-weight: 600;
@@ -53,7 +53,7 @@ _styles: |
   }
 
   .mss-subtitle {
-    color: var(--mss-muted);
+    color: var(--mss-muted) !important;
     font-size: clamp(1.05rem, 2vw, 1.35rem);
     line-height: 1.55;
     margin: 0 0 1.35rem;
@@ -61,20 +61,35 @@ _styles: |
   }
 
   .mss-authors {
+    color: var(--mss-ink) !important;
     font-size: 1rem;
     line-height: 1.7;
     margin-bottom: 0.8rem;
   }
 
+  .mss-authors a,
+  .mss-authors a strong {
+    color: var(--mss-accent-dark) !important;
+  }
+
+  .mss-authors a:hover,
+  .mss-authors a:hover strong {
+    color: var(--mss-accent) !important;
+  }
+
+  .mss-authors sup {
+    color: var(--mss-muted) !important;
+  }
+
   .mss-affiliations {
-    color: var(--mss-muted);
+    color: var(--mss-muted) !important;
     font-size: 0.94rem;
     line-height: 1.65;
     margin-bottom: 0.75rem;
   }
 
   .mss-note {
-    color: var(--mss-muted);
+    color: var(--mss-muted) !important;
     font-size: 0.88rem;
     margin-bottom: 1.5rem;
   }
@@ -120,7 +135,7 @@ _styles: |
   }
 
   .mss-section h2 {
-    color: var(--mss-ink);
+    color: var(--mss-ink) !important;
     font-family: Georgia, "Times New Roman", serif;
     font-size: clamp(2rem, 4vw, 3.2rem);
     letter-spacing: -0.03em;
@@ -128,7 +143,7 @@ _styles: |
   }
 
   .mss-section p {
-    color: var(--mss-muted);
+    color: var(--mss-muted) !important;
     font-size: 1.08rem;
     line-height: 1.8;
   }
@@ -149,7 +164,7 @@ _styles: |
   }
 
   .mss-figure figcaption {
-    color: var(--mss-muted);
+    color: var(--mss-muted) !important;
     font-size: 0.9rem;
     line-height: 1.55;
     padding: 0.8rem 0.45rem 0.2rem;
@@ -169,7 +184,7 @@ _styles: |
   }
 
   .mss-point strong {
-    color: var(--mss-accent-dark);
+    color: var(--mss-accent-dark) !important;
     display: block;
     font-size: 0.78rem;
     letter-spacing: 0.1em;
@@ -178,7 +193,7 @@ _styles: |
   }
 
   .mss-point span {
-    color: var(--mss-ink);
+    color: var(--mss-ink) !important;
     line-height: 1.55;
   }
 
