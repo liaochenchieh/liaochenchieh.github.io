@@ -396,8 +396,17 @@ _styles: |
   author    = {Liao, Chen-Chieh and Peng, Yichen and Cai, Yiyi and
                Ono, Yûi and Hanaoka, Hiroki and Wu, Erwin and
                Koike, Hideki and Kurabayashi, Shuichi},
-  booktitle = {European Conference on Computer Vision (ECCV)},
-  year      = {2026}
+  editor    = {Favaro, Paolo and Kukelova, Zuzana and Maki, Atsuto and
+               Rohrbach, Anna and Schindler, Konrad and Tombari, Federico},
+  booktitle = {Computer Vision -- ECCV 2026: 19th European Conference,
+               Malmo, Sweden, September 8--12, 2026, Proceedings, Part XXVI},
+  series    = {Lecture Notes in Computer Science},
+  volume    = {17026},
+  pages     = {115--133},
+  publisher = {Springer, Cham},
+  year      = {2026},
+  doi       = {10.1007/978-3-032-37595-7_7},
+  url       = {https://doi.org/10.1007/978-3-032-37595-7_7}
 }</code></pre>
   </section>
 </div>
