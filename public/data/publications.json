@@ -1,0 +1,993 @@
+[
+  {
+    "id": 1,
+    "title": "MuscleGolfAR: Embodied versus Detached Visualization for Motions and Inferred Muscle Activations in Augmented Reality",
+    "authors": "Ruofan Liu, Chen-Chieh Liao, Takuya Takahashi, Yichen Peng, Erwin Wu, and Hideki Koike",
+    "venue": "IEEE TVCG",
+    "year": 2026,
+    "topic": "Skill & interaction",
+    "contribution": "Infer activation from posture/plantar pressure and compare embodied with detached AR displays.",
+    "links": [
+      [
+        "Paper",
+        "https://doi.org/10.1109/TVCG.2026.3680749"
+      ]
+    ],
+    "image": "/assets/academic-home/images/1.webp",
+    "category": "Journal articles",
+    "image_kind": "Research figure"
+  },
+  {
+    "id": 4,
+    "title": "Dynamic Blur Guidance for Look-Ahead Gaze in VR Ski Training",
+    "authors": "Eiichi Kihara, Chen-Chieh Liao, Yichen Peng, Hideki Koike, and Erwin Wu",
+    "venue": "VRST",
+    "year": 2026,
+    "topic": "Skill & interaction",
+    "contribution": "Keep the next target clear while varying surrounding Gaussian blur.",
+    "links": [
+      [
+        "Paper",
+        "https://doi.org/10.1145/3822517.3848726"
+      ]
+    ],
+    "image": "/assets/academic-home/images/figure-4.webp",
+    "category": "Conference papers",
+    "image_kind": "Research figure"
+  },
+  {
+    "id": 5,
+    "title": "SnowEcho: End-to-End Blind Skiing Assistance System Using Spatial Audio for Simulated Dynamic Slope",
+    "authors": "Yuta Taguchi, Toshihiro Hirano, Masaki Kuribayashi, Yichen Peng, Chen-Chieh Liao, Erwin Wu, Hideki Koike, and Shigeo Morishima",
+    "venue": "UIST",
+    "year": 2026,
+    "topic": "Skill & interaction",
+    "contribution": "Convey obstacle direction/distance through spatial audio and test depth-sensing noise.",
+    "links": [
+      [
+        "Paper",
+        "https://doi.org/10.1145/3830398.3830536"
+      ]
+    ],
+    "image": "/assets/academic-home/images/5.webp",
+    "category": "Conference papers",
+    "image_kind": "Research figure"
+  },
+  {
+    "id": 6,
+    "title": "Motion Style Slider: Endpoint-Supervised Continuous Style Control for Human Motion Diffusion",
+    "authors": "Chen-Chieh Liao, Yichen Peng, Yiyi Cai, Yûi Ono, Hiroki Hanaoka, Erwin Wu, Hideki Koike, and Shuichi Kurabayashi",
+    "venue": "ECCV",
+    "year": 2026,
+    "topic": "Motion & generation",
+    "contribution": "Learn a style direction from endpoint motions and condition diffusion with scalar intensity.",
+    "links": [
+      [
+        "Paper",
+        "https://doi.org/10.1007/978-3-032-37595-7_7"
+      ],
+      [
+        "Project",
+        "/projects/motion-style-slider/"
+      ],
+      [
+        "Video",
+        "https://www.youtube.com/watch?v=WXV0JVo6y2o"
+      ]
+    ],
+    "image": "/assets/academic-home/images/6.webp",
+    "category": "Conference papers",
+    "image_kind": "Research figure"
+  },
+  {
+    "id": 7,
+    "title": "InterPet4D: A Multimodal 4D Human–Pet Interaction Dataset for Pet Motion Generation",
+    "authors": "Yichen Peng∗ , Jyun-Ting Song∗ , Chen-Chieh Liao∗ , Kris Kitani, Hideki Koike, and Erwin Wu",
+    "venue": "ECCV",
+    "year": 2026,
+    "topic": "Motion & generation",
+    "contribution": "Capture multimodal human-dog interaction and build InterPetMoGen.",
+    "links": [
+      [
+        "Video",
+        "https://www.youtube.com/watch?v=B2lUM264VfQ"
+      ],
+      [
+        "Project",
+        "https://interactive-intelligence-lab.github.io/InterPet4D-Homepage/"
+      ]
+    ],
+    "image": "/assets/academic-home/images/7.webp",
+    "category": "Conference papers",
+    "image_kind": "Research figure"
+  },
+  {
+    "id": 8,
+    "title": "SoleCoach: Sole Pressure and IMU-based MLLMs for Skill Coaching",
+    "authors": "Toshihiro Hirano, Hitoshi Yoshihara, Yichen Peng, Chen-Chieh Liao, Erwin Wu, and Hideki Koike",
+    "venue": "CHI",
+    "year": 2026,
+    "topic": "Skill & interaction",
+    "contribution": "Generate posture representations and language coaching from insole pressure and IMU signals.",
+    "links": [
+      [
+        "Paper",
+        "https://doi.org/10.1145/3772318.3791181"
+      ],
+      [
+        "Project",
+        "https://koikelab-team.github.io/SoleCoach/"
+      ]
+    ],
+    "image": "/assets/academic-home/images/8.webp",
+    "category": "Conference papers",
+    "award": "CHI 2026 Best Paper Honorable Mention",
+    "image_kind": "Research figure"
+  },
+  {
+    "id": 9,
+    "title": "Sensing Your Vocals: Exploring the Activity of Vocal Cord Muscles for Pitch Assessment Using Electromyography and Ultrasonography",
+    "authors": "Kanyu Chen, Rebecca Panskus, Erwin Wu, Yichen Peng, Daichi Saito, Emiko Kamiyama, Ruiteng Li, Chen-Chieh Liao, Karola Marky, Akira Kato, Hideki Koike, and Kai Kunze",
+    "venue": "CHI",
+    "year": 2026,
+    "topic": "Skill & interaction",
+    "contribution": "Compare expert-reference EMG/ultrasound feedback and conventional vocal-training approaches.",
+    "links": [
+      [
+        "Paper",
+        "https://doi.org/10.1145/3772318.3790965"
+      ]
+    ],
+    "image": "/assets/academic-home/images/9.webp",
+    "category": "Conference papers",
+    "award": "CHI 2026 Best Paper Honorable Mention",
+    "image_kind": "Research figure"
+  },
+  {
+    "id": 10,
+    "title": "Seeing and Saying Movement: Combining Skeleton Visualization and LLM Feedback for Motor Skill Coaching",
+    "authors": "Sakina Watanabe, Chen-Chieh Liao, Erwin Wu, and Hideki Koike",
+    "venue": "AHs",
+    "year": 2026,
+    "topic": "Skill & interaction",
+    "contribution": "Combine joint-direction highlighting with rule-based and LLM comments.",
+    "links": [
+      [
+        "Paper",
+        "https://doi.org/10.1145/3795011.3795054"
+      ]
+    ],
+    "image": "/assets/academic-home/images/figure-10.webp",
+    "category": "Conference papers",
+    "image_kind": "Research figure"
+  },
+  {
+    "id": 11,
+    "title": "Real-time Ski Coaching using Pose Estimation from Sole Pressure and MLLMs Based on Reference-Pose Errors",
+    "authors": "Hitoshi Yoshihara, Toshihiro Hirano, Chen-Chieh Liao, Erwin Wu, and Hideki Koike",
+    "venue": "AHs",
+    "year": 2026,
+    "topic": "Skill & interaction",
+    "contribution": "Use reference-pose errors to choose feedback timing and granularity.",
+    "links": [
+      [
+        "Paper",
+        "https://doi.org/10.1145/3795011.3795052"
+      ]
+    ],
+    "image": "/assets/academic-home/images/figure-11.webp",
+    "category": "Conference papers",
+    "image_kind": "Research figure"
+  },
+  {
+    "id": 12,
+    "title": "Reference-based Positive Ski Coaching using Foot Pressure and MLLMs",
+    "authors": "Toshihiro Hirano, Hitoshi Yoshihara, Chen-Chieh Liao, Erwin Wu, and Hideki Koike",
+    "venue": "WACVW",
+    "year": 2026,
+    "topic": "Skill & interaction",
+    "contribution": "Construct paired before/after examples and generate corrective and positive feedback from foot-pressure sequences.",
+    "links": [
+      [
+        "Paper",
+        "https://openaccess.thecvf.com/content/WACV2026W/CV4WS/papers/Hirano_Reference-based_Positive_Ski_Coaching_using_Foot_Pressure_and_MLLMs_WACVW_2026_paper.pdf"
+      ]
+    ],
+    "image": "/assets/academic-home/images/figure-12.webp",
+    "category": "Conference papers",
+    "image_kind": "Research figure"
+  },
+  {
+    "id": 24,
+    "title": "Real-Time Interactive 3D Pet Motion Generation using Multi-modal Input",
+    "authors": "Yichen Peng, Chen-Chieh Liao, Hideki Koike, and Erwin Wu",
+    "venue": "UbiComp / ISWC Adjunct",
+    "year": 2026,
+    "topic": "Motion & generation",
+    "contribution": "Build multimodal pet-motion generation using InterPet4D.",
+    "links": [],
+    "image": "/assets/academic-home/images/figure-24.webp",
+    "category": "Demos & posters",
+    "image_kind": "Research figure"
+  },
+  {
+    "id": 34,
+    "title": "Exploring Foot Pressure Sensing for Avatar Manipulation and for Input Modality in VR",
+    "authors": "Shino Ito, Yichen Peng, Chen-Chieh Liao, Sakina Watanabe, Erwin Wu, and Hideki Koike",
+    "venue": "IEEE VR Workshops",
+    "year": 2026,
+    "topic": "Skill & interaction",
+    "contribution": "Estimate body motion from insole signals and explore avatar, hands-free input and sports applications.",
+    "links": [
+      [
+        "Paper",
+        "https://doi.org/10.1109/VRW70859.2026.00117"
+      ]
+    ],
+    "image": "/assets/academic-home/images/figure-34.webp",
+    "category": "Other international papers",
+    "image_kind": "Research figure"
+  },
+  {
+    "id": 35,
+    "title": "ElectroEncephaloGraphy Verification of Speed Adaptation in Time-Distortion Ski Training System",
+    "authors": "Funa Oba, Yichen Peng, Chen-Chieh Liao, Erwin Wu, Natsue Yoshimura, and Hideki Koike",
+    "venue": "IEEE VR Workshops",
+    "year": 2026,
+    "topic": "Skill & interaction",
+    "contribution": "Measure subjective speed and EEG during speed-adaptation exposure.",
+    "links": [
+      [
+        "Paper",
+        "https://doi.org/10.1109/VRW70859.2026.00122"
+      ]
+    ],
+    "image": "/assets/academic-home/images/figure-35.webp",
+    "category": "Other international papers",
+    "image_kind": "Research figure"
+  },
+  {
+    "id": 36,
+    "title": "An AR-Based Exergame for Supporting Posture Correction in Alpine Skiing",
+    "authors": "Yuki Tabei, Chen-Chieh Liao, Yichen Peng, Erwin Wu, and Hideki Koike",
+    "venue": "IEEE VR Workshops",
+    "year": 2026,
+    "topic": "Skill & interaction",
+    "contribution": "Combine corrective poses, timed cues and scoring.",
+    "links": [
+      [
+        "Paper",
+        "https://doi.org/10.1109/VRW70859.2026.00114"
+      ]
+    ],
+    "image": "/assets/academic-home/images/figure-36.webp",
+    "category": "Other international papers",
+    "image_kind": "Research figure"
+  },
+  {
+    "id": 51,
+    "title": "SkiExARGame: AR Gamified Training in Alpine Skiing with Time-Distorted Mental Rehearsal",
+    "authors": "",
+    "venue": "ICXR manuscript",
+    "year": 2026,
+    "topic": "Skill & interaction",
+    "contribution": "Combine AR pose practice with time-distorted mental rehearsal and conduct design and exploratory studies.",
+    "links": [],
+    "image": "/assets/academic-home/images/figure-51.webp",
+    "category": "Preprints & manuscripts",
+    "image_kind": "Research figure"
+  },
+  {
+    "id": 2,
+    "title": "ShiftingGolf: Gross Motor Skill Correction using Redirection in VR",
+    "authors": "Chen-Chieh Liao, Zhihao Yu, and Hideki Koike",
+    "venue": "IEEE TVCG",
+    "year": 2025,
+    "topic": "Skill & interaction",
+    "contribution": "Shift the virtual ball just before impact and compare redirection schedules.",
+    "links": [
+      [
+        "Paper",
+        "https://doi.org/10.1109/TVCG.2025.3549170"
+      ],
+      [
+        "Video",
+        "https://www.youtube.com/watch?v=7SEB_25d4y0"
+      ]
+    ],
+    "image": "/assets/academic-home/images/2.webp",
+    "category": "Journal articles",
+    "image_kind": "Research figure"
+  },
+  {
+    "id": 13,
+    "title": "PiaMuscle: Improving Piano Skill Acquisition by Cost-effectively Estimating and Visualizing Activities of Miniature Hand Muscles",
+    "authors": "Ruofan Liu, Yichen Peng, Takanori Oku, Chen-Chieh Liao, Erwin Wu, Shinichi Furuya, and Hideki Koike",
+    "venue": "CHI",
+    "year": 2025,
+    "topic": "Skill & interaction",
+    "contribution": "Infer hand EMG from accessible motion/tool information and visualize reference/user muscle activity.",
+    "links": [
+      [
+        "Paper",
+        "https://doi.org/10.1145/3706598.3713465"
+      ],
+      [
+        "Video",
+        "https://www.youtube.com/watch?v=9xju5pZiJz4"
+      ],
+      [
+        "Video",
+        "https://www.youtube.com/watch?v=Oz1uFNnEWNk"
+      ]
+    ],
+    "image": "/assets/academic-home/images/13.webp",
+    "category": "Conference papers",
+    "image_kind": "Research figure"
+  },
+  {
+    "id": 14,
+    "title": "From Pose to Muscle: Multimodal Learning for Piano Hand Muscle Electromyography",
+    "authors": "Ruofan Liu, Yichen Peng, Takanori Oku, Chen-Chieh Liao, Erwin Wu, Shinichi Furuya, and Hideki Koike",
+    "venue": "NeurIPS",
+    "year": 2025,
+    "topic": "Skill & interaction",
+    "contribution": "Provide a multimodal piano dataset and a pose/keystroke-to-EMG inference framework.",
+    "links": [
+      [
+        "Video",
+        "https://www.youtube.com/watch?v=3qjzDUzFH_Y"
+      ],
+      [
+        "Project",
+        "https://neurips.cc/virtual/2025/poster/116792"
+      ],
+      [
+        "Video",
+        "https://www.youtube.com/watch?v=ElKeyoN_z8I"
+      ]
+    ],
+    "image": "/assets/academic-home/images/14.webp",
+    "category": "Conference papers",
+    "image_kind": "Research figure"
+  },
+  {
+    "id": 15,
+    "title": "SkiTechCoach: A Multimodal Alpine Skiing Dataset with 3D Body Pose, Sole Pressure, and Expert Coaching",
+    "authors": "Toshihiro Hirano, Yuki Tabei, Yichen Peng, Chen-Chieh Liao, Erwin Wu, and Hideki Koike",
+    "venue": "MMSports",
+    "year": 2025,
+    "topic": "Skill & interaction",
+    "contribution": "Add synchronized expert verbal/visual coaching and FIS information to ski pose and pressure data.",
+    "links": [
+      [
+        "Paper",
+        "https://doi.org/10.1145/3728423.3759413"
+      ],
+      [
+        "Project",
+        "https://skitechcoach.pages.dev/"
+      ]
+    ],
+    "image": "/assets/academic-home/images/15.webp",
+    "category": "Conference papers",
+    "image_kind": "Research figure"
+  },
+  {
+    "id": 25,
+    "title": "A Demonstration of ShiftingGolf: Gross Motor Skill Correction Using Redirection in VR",
+    "authors": "Chen-Chieh Liao, Ruofan Liu, Yichen Peng, Erwin Wu, and Hideki Koike",
+    "venue": "SIGGRAPH Asia",
+    "year": 2025,
+    "topic": "Skill & interaction",
+    "contribution": "Package virtual-ball redirection in a portable VR training demonstration.",
+    "links": [
+      [
+        "Paper",
+        "https://doi.org/10.1145/3757373.3763777"
+      ]
+    ],
+    "image": "/assets/academic-home/images/25.webp",
+    "category": "Demos & posters",
+    "image_kind": "Research figure"
+  },
+  {
+    "id": 26,
+    "title": "An Augmented Reality Exergame for Improving Ski Posture through Gamified Feedback",
+    "authors": "Yuki Tabei, Chen-Chieh Liao, Yichen Peng, Erwin Wu, and Hideki Koike",
+    "venue": "SIGGRAPH Asia",
+    "year": 2025,
+    "topic": "Skill & interaction",
+    "contribution": "Present AR pose cues and scoring on a simulator and real slopes.",
+    "links": [
+      [
+        "Paper",
+        "https://doi.org/10.1145/3757373.3763774"
+      ]
+    ],
+    "image": "/assets/academic-home/images/26.webp",
+    "category": "Demos & posters",
+    "image_kind": "Research figure"
+  },
+  {
+    "id": 27,
+    "title": "Introduction of the VCSD Dataset: A Vocal Cords Dataset Using EMG and Ultrasonography for Singing Pitch Skill Recognition",
+    "authors": "Kanyu Chen, Erwin Wu, Chen-Chieh Liao, Daichi Saito, Yichen Peng, Akira Kato, Hideki Koike, and Kai Kunze",
+    "venue": "UbiComp",
+    "year": 2025,
+    "topic": "Skill & interaction",
+    "contribution": "Release a dataset of EMG and ultrasound recordings during pitch-singing tasks.",
+    "links": [
+      [
+        "Paper",
+        "https://doi.org/10.1145/3714394.3754407"
+      ]
+    ],
+    "image": "/assets/academic-home/images/figure-27.webp",
+    "category": "Demos & posters",
+    "image_kind": "Research figure"
+  },
+  {
+    "id": 37,
+    "title": "時間歪曲スキートレーニングシステムにおける速度順応の検証",
+    "authors": "大庭芙海，Chen-Chieh Liao，Yichen Peng，吉村奈津江，小池英樹",
+    "venue": "WISS",
+    "year": 2025,
+    "topic": "Skill & interaction",
+    "category": "Domestic publications",
+    "contribution": "",
+    "links": [
+      [
+        "Paper",
+        "https://www.wiss.org/WISS2025Proceedings/data/demo/1-A06.pdf"
+      ]
+    ],
+    "image": "/assets/academic-home/images/figure-37.webp",
+    "citation": "大庭芙海，Chen-Chieh Liao，Yichen Peng，吉村奈津江，小池英樹, '' 時間歪曲スキートレーニング システムにおける速度順応の検証,'' 日本ソフトウェア科学会，第 33 回インタラクティブシステムと ソフトウェアに関するワークショップ（WISS2025）デモ発表，No. 1-A06，3 pages, 2025.",
+    "image_kind": "Research figure"
+  },
+  {
+    "id": 38,
+    "title": "3 次元姿勢解析と大規模言語モデルを用いたキックボクシング練習支援システム",
+    "authors": "渡部幸和，Chen-Chieh Liao，二宮悠樹，Erwin Wu，小池英樹",
+    "venue": "WISS",
+    "year": 2025,
+    "topic": "Skill & interaction",
+    "category": "Domestic publications",
+    "contribution": "",
+    "links": [
+      [
+        "Paper",
+        "https://www.wiss.org/WISS2025Proceedings/data/demo/1-C18.pdf"
+      ]
+    ],
+    "image": "/assets/academic-home/images/figure-38.webp",
+    "citation": "渡部幸和，Chen-Chieh Liao，二宮悠樹，Erwin Wu，小池英樹, ''3 次元姿勢解析と大規模言語モデル を用いたキックボクシング練習支援システム,'' 日本ソフトウェア科学会，第 33 回インタラクティブ システムとソフトウェアに関するワークショップ（WISS2025）デモ発表，No. 1-C18，3 pages, 2025.",
+    "image_kind": "Research figure"
+  },
+  {
+    "id": 39,
+    "title": "インソール型センサを用いた MLLM による実時間スキー音声コーチング",
+    "authors": "吉原仁，平野稔祐，Chen-Chieh Liao，Erwin Wu，小池英樹",
+    "venue": "WISS",
+    "year": 2025,
+    "topic": "Skill & interaction",
+    "category": "Domestic publications",
+    "contribution": "",
+    "links": [
+      [
+        "Paper",
+        "https://www.wiss.org/WISS2025Proceedings/data/demo/2-B10.pdf"
+      ]
+    ],
+    "image": "/assets/academic-home/images/figure-39.webp",
+    "citation": "吉原仁，平野稔祐，Chen-Chieh Liao，Erwin Wu，小池英樹, '' インソール型センサを用いた MLLM による実時間スキー音声コーチング,'' 日本ソフトウェア科学会，第 33 回インタラクティブシステム とソフトウェアに関するワークショップ（WISS2025）デモ発表，No. 2-B10，3 pages, 2025.",
+    "image_kind": "Research figure"
+  },
+  {
+    "id": 40,
+    "title": "視線誘導を用いた VR アルペンスキートレーニングシステム",
+    "authors": "木原英一，Yichen Peng，Chen-Chieh Liao，Erwin Wu，小池英樹",
+    "venue": "WISS",
+    "year": 2025,
+    "topic": "Skill & interaction",
+    "category": "Domestic publications",
+    "contribution": "",
+    "links": [
+      [
+        "Paper",
+        "https://www.wiss.org/WISS2025Proceedings/data/demo/3-C25.pdf"
+      ]
+    ],
+    "image": "/assets/academic-home/images/figure-40.webp",
+    "citation": "木原英一，Yichen Peng，Chen-Chieh Liao，Erwin Wu，小池英樹, '' 視線誘導を用いた VR アルペ ンスキートレーニングシステム,'' 日本ソフトウェア科学会，第 33 回インタラクティブシステムとソ フトウェアに関するワークショップ（WISS2025）デモ発表，No. 3-C25，3 pages, 2025.",
+    "image_kind": "Research figure"
+  },
+  {
+    "id": 16,
+    "title": "ARpenSki: Augmenting Ski Training with Direct and Indirect Postural Visualization",
+    "authors": "Takashi Matsumoto, Erwin Wu, Chen-Chieh Liao, and Hideki Koike",
+    "venue": "IEEE VR",
+    "year": 2024,
+    "topic": "Skill & interaction",
+    "contribution": "Compare direct and indirect AR posture cues, including a reference skier, spine-angle cue and horizontal pole.",
+    "links": [
+      [
+        "Paper",
+        "https://doi.org/10.1109/VR58804.2024.00024"
+      ]
+    ],
+    "image": "/assets/academic-home/images/16.webp",
+    "category": "Conference papers",
+    "image_kind": "Research figure"
+  },
+  {
+    "id": 17,
+    "title": "Diffusion-Based Synthetic Dataset Generation for Egocentric 3D Human Pose Estimation",
+    "authors": "Kyohei Hayakawa, Dong-Hyun Hwang, Chen-Chieh Liao, and Hideki Koike",
+    "venue": "ECCV Workshops",
+    "year": 2024,
+    "topic": "Motion & generation",
+    "contribution": "Use diffusion with ControlNet and adaptation to generate more realistic training images.",
+    "links": [
+      [
+        "Paper",
+        "https://doi.org/10.1007/978-3-031-91907-7_14"
+      ]
+    ],
+    "image": "/assets/academic-home/images/figure-17.webp",
+    "category": "Conference papers",
+    "image_kind": "Research figure"
+  },
+  {
+    "id": 28,
+    "title": "Novel Sensing Methods for Vocal Technique Analysis: Evaluation on Electromyography and Ultrasonography",
+    "authors": "Kanyu Chen, Erwin Wu, Daichi Saito, Yichen Peng, Chen-Chieh Liao, Akira Kato, Hideki Koike, and Kai Kunze",
+    "venue": "ISMAR Adjunct",
+    "year": 2024,
+    "topic": "Skill & interaction",
+    "contribution": "Use EMG and ultrasound as complementary vocal-feedback modalities.",
+    "links": [
+      [
+        "Paper",
+        "https://doi.org/10.1109/ISMAR-Adjunct64951.2024.00034"
+      ]
+    ],
+    "image": "/assets/academic-home/images/figure-28.webp",
+    "category": "Demos & posters",
+    "image_kind": "Research figure"
+  },
+  {
+    "id": 18,
+    "title": "PianoSyncAR: Enhancing Piano Learning through Visualizing Synchronized Hand Pose Discrepancies in Augmented Reality",
+    "authors": "Ruofan Liu, Erwin Wu, Chen-Chieh Liao, Hayato Nishioka, Shinichi Furuya, and Hideki Koike",
+    "venue": "ISMAR",
+    "year": 2023,
+    "topic": "Skill & interaction",
+    "contribution": "Superimpose synchronized teacher hand postures on the learner's hands in AR.",
+    "links": [
+      [
+        "Paper",
+        "https://doi.org/10.1109/ISMAR59233.2023.00101"
+      ],
+      [
+        "Video",
+        "https://www.youtube.com/watch?v=8gMQii4WQ9c"
+      ]
+    ],
+    "image": "/assets/academic-home/images/18.webp",
+    "category": "Conference papers",
+    "image_kind": "Research figure"
+  },
+  {
+    "id": 19,
+    "title": "Make Your Brief Stroke Real and Stereoscopic: 3D-Aware Simplified Sketch to Portrait Generation",
+    "authors": "Yasheng Sun, Qianyi Wu, Hang Zhou, Kaisiyuan Wang, Tianshu Hu, Chen-Chieh Liao, Shio Miyafuji, Ziwei Liu, and Hideki Koike",
+    "venue": "ICMI",
+    "year": 2023,
+    "topic": "Motion & generation",
+    "contribution": "Combine contour/sketch representations with a tri-plane 3D-aware generator.",
+    "links": [
+      [
+        "Paper",
+        "https://doi.org/10.1145/3577190.3614106"
+      ],
+      [
+        "Project",
+        "https://hangz-nju-cuhk.github.io/projects/SSSP"
+      ],
+      [
+        "Video",
+        "https://www.youtube.com/watch?v=tAnSpeUrmR8"
+      ]
+    ],
+    "image": "/assets/academic-home/images/figure-19.webp",
+    "category": "Conference papers",
+    "image_kind": "Research figure"
+  },
+  {
+    "id": 20,
+    "title": "PianoHandSync: An Alignment-based Hand Pose Discrepancy Visualization System for Piano Learning",
+    "authors": "Ruofan Liu, Erwin Wu, Chen-Chieh Liao, Hayato Nishioka, Shinichi Furuya, and Hideki Koike",
+    "venue": "CHI EA",
+    "year": 2023,
+    "topic": "Skill & interaction",
+    "contribution": "Visualize aligned 3D hand poses and discrepancies with multiple metrics and modular controls.",
+    "links": [
+      [
+        "Paper",
+        "https://doi.org/10.1145/3544549.3585705"
+      ],
+      [
+        "Video",
+        "https://www.youtube.com/watch?v=6-MDmDONX_s"
+      ],
+      [
+        "Video",
+        "https://www.youtube.com/watch?v=mHOltxdfiBg"
+      ]
+    ],
+    "image": "/assets/academic-home/images/20.webp",
+    "category": "Conference papers",
+    "image_kind": "Research figure"
+  },
+  {
+    "id": 21,
+    "title": "AI Coach: A Motor Skill Training System using Motion Discrepancy Detection",
+    "authors": "Chen-Chieh Liao, Dong-Hyun Hwang, Erwin Wu, and Hideki Koike",
+    "venue": "AHs",
+    "year": 2023,
+    "topic": "Skill & interaction",
+    "contribution": "Turn synchronized motion differences into a training interface with recommended motion.",
+    "links": [
+      [
+        "Paper",
+        "https://doi.org/10.1145/3582700.3582710"
+      ]
+    ],
+    "image": "/assets/academic-home/images/figure-21.webp",
+    "category": "Conference papers",
+    "image_kind": "Research figure"
+  },
+  {
+    "id": 22,
+    "title": "SkiTech: An Alpine Skiing and Snowboarding Dataset of 3D Body Pose, Sole Pressure, and Electromyography",
+    "authors": "Erwin Wu, Takashi Matsumoto, Chen-Chieh Liao, Ruofan Liu, Hidetaka Katsuyama, Yuki Inaba, Noriko Hakamada, Yusuke Yamamoto, Yusuke Ishige, and Hideki Koike",
+    "venue": "MMSports",
+    "year": 2023,
+    "topic": "Skill & interaction",
+    "contribution": "Collect simulator video, body pose, sole pressure and leg EMG, with cross-modal baselines and a real-world pilot.",
+    "links": [
+      [
+        "Paper",
+        "https://doi.org/10.1145/3606038.3616151"
+      ]
+    ],
+    "image": "/assets/academic-home/images/22.webp",
+    "category": "Conference papers",
+    "image_kind": "Research figure"
+  },
+  {
+    "id": 29,
+    "title": "Content-Preserving Motion Stylization using Variational Autoencoder",
+    "authors": "Chen-Chieh Liao, Jong-Hwan Kim, Hideki Koike, and Dong-Hyun Hwang",
+    "venue": "SIGGRAPH",
+    "year": 2023,
+    "topic": "Motion & generation",
+    "contribution": "Use a content-conditioned variational autoencoder for cross-category style transfer and blending.",
+    "links": [
+      [
+        "Paper",
+        "https://doi.org/10.1145/3588028.3603679"
+      ]
+    ],
+    "image": "/assets/academic-home/images/figure-29.webp",
+    "category": "Demos & posters",
+    "image_kind": "Research figure"
+  },
+  {
+    "id": 41,
+    "title": "VR リダイレクションを用いたゴルフスイングトレーニングシステム",
+    "authors": "余志皓，廖振傑，小池英樹",
+    "venue": "WISS",
+    "year": 2023,
+    "topic": "Skill & interaction",
+    "category": "Domestic publications",
+    "contribution": "",
+    "links": [
+      [
+        "Paper",
+        "https://www.wiss.org/WISS2023Proceedings/data/02.pdf"
+      ]
+    ],
+    "image": "/assets/academic-home/images/figure-41.webp",
+    "citation": "余志皓，廖振傑，小池英樹, ''VR リダイレクションを用いたゴルフスイングトレーニングシステ ム,'' 日本ソフトウェア科学会，第 31 回インタラクティブシステムとソフトウェアに関するワーク ショップ（WISS2023），No. 02，7 pages, 2023.",
+    "image_kind": "Research figure"
+  },
+  {
+    "id": 42,
+    "title": "ゴルフスイング学習システムにおける筋肉活動情報可視化手法の提案",
+    "authors": "高橋拓也，Chen-Chieh Liao，小池英樹",
+    "venue": "WISS",
+    "year": 2023,
+    "topic": "Skill & interaction",
+    "category": "Domestic publications",
+    "contribution": "",
+    "links": [
+      [
+        "Paper",
+        "https://www.wiss.org/WISS2023Proceedings/data/3-C07.pdf"
+      ]
+    ],
+    "image": "/assets/academic-home/images/figure-42.webp",
+    "citation": "高橋拓也，Chen-Chieh Liao，小池英樹, '' ゴルフスイング学習システムにおける筋肉活動情報可視 化手法の提案,'' 日本ソフトウェア科学会，第 31 回インタラクティブシステムとソフトウェアに関す るワークショップ（WISS2023），No. 3-C07，3 pages, 2023.",
+    "image_kind": "Research figure"
+  },
+  {
+    "id": 43,
+    "title": "胸装着型カメラによる三次元姿勢推定の深層学習用合成データ生成手法の提案",
+    "authors": "早川恭平，Dong-Hyun Hwang，Chen-Chieh Liao，小池英樹",
+    "venue": "WISS",
+    "year": 2023,
+    "topic": "Skill & interaction",
+    "category": "Domestic publications",
+    "contribution": "",
+    "links": [
+      [
+        "Paper",
+        "https://www.wiss.org/WISS2023Proceedings/data/1-A01.pdf"
+      ]
+    ],
+    "image": "/assets/academic-home/images/figure-43.webp",
+    "citation": "早川恭平，Dong-Hyun Hwang，Chen-Chieh Liao，小池英樹, '' 胸装着型カメラによる三次元姿勢推 定の深層学習用合成データ生成手法の提案,'' 日本ソフトウェア科学会，第 31 回インタラクティブシ ステムとソフトウェアに関するワークショップ（WISS2023），No. 1-A01，3 pages, 2023.",
+    "image_kind": "Research figure"
+  },
+  {
+    "id": 44,
+    "title": "超広角カメラを用いたウェアラブル姿勢推定システムの構築",
+    "authors": "平野稔祐，Dong-Hyun Hwang，Chen-Chieh Liao，小池英樹",
+    "venue": "WISS",
+    "year": 2023,
+    "topic": "Skill & interaction",
+    "category": "Domestic publications",
+    "contribution": "",
+    "links": [
+      [
+        "Paper",
+        "https://www.wiss.org/WISS2023Proceedings/data/2-B01.pdf"
+      ]
+    ],
+    "image": "/assets/academic-home/images/figure-44.webp",
+    "citation": "平野稔祐，Dong-Hyun Hwang，Chen-Chieh Liao，小池英樹, '' 超広角カメラを用いたウェアラブル 姿勢推定システムの構築,'' 日本ソフトウェア科学会，第 31 回インタラクティブシステムとソフト ウェアに関するワークショップ（WISS2023）デモ発表，No. 2-B01，3 pages, 2023.",
+    "image_kind": "Research figure"
+  },
+  {
+    "id": 45,
+    "title": "PianoSyncAR: 拡張現実で同期した手のポーズの差分を視覚化することでピアノ学習を強化",
+    "authors": "Liu Ruofan，Erwin Wu，Chen-Chieh Liao，西岡勇人，古屋晋一，小池英樹",
+    "venue": "WISS",
+    "year": 2023,
+    "topic": "Skill & interaction",
+    "category": "Domestic publications",
+    "contribution": "",
+    "links": [
+      [
+        "Paper",
+        "https://www.wiss.org/WISS2023Proceedings/data/12.pdf"
+      ]
+    ],
+    "image": "/assets/academic-home/images/figure-45.webp",
+    "citation": "Liu Ruofan，Erwin Wu，Chen-Chieh Liao，西岡勇人，古屋晋一，小池英樹, ''PianoSyncAR: 拡張現 実で同期した手のポーズの差分を視覚化することでピアノ学習を強化,'' 日本ソフトウェア科学会， 第 31 回インタラクティブシステムとソフトウェアに関するワークショップ（WISS2023），No. 12， 3 pages, 2023.",
+    "image_kind": "Research figure"
+  },
+  {
+    "id": 46,
+    "title": "拡張現実を用いた姿勢可視化によるスキートレーニングシステム",
+    "authors": "松本高，Erwin Wu，Chen-Chieh Liao，小池英樹",
+    "venue": "WISS",
+    "year": 2023,
+    "topic": "Skill & interaction",
+    "category": "Domestic publications",
+    "contribution": "",
+    "links": [
+      [
+        "Paper",
+        "https://www.wiss.org/WISS2023Proceedings/data/03.pdf"
+      ]
+    ],
+    "image": "/assets/academic-home/images/figure-46.webp",
+    "citation": "松本高，Erwin Wu，Chen-Chieh Liao，小池英樹, '' 拡張現実を用いた姿勢可視化によるスキート レーニングシステム,'' 日本ソフトウェア科学会，第 31 回インタラクティブシステムとソフトウェア に関するワークショップ（WISS2023） ，No. 03，8 pages, 2023.",
+    "image_kind": "Research figure"
+  },
+  {
+    "id": 47,
+    "title": "音楽聴取時の脳波の周波数解析に基づくジャンル分類",
+    "authors": "佐藤優稀，齊藤大智，Chen-Chieh Liao，宮藤詩緒，吉村奈津江，小池英樹",
+    "venue": "WISS",
+    "year": 2023,
+    "topic": "Skill & interaction",
+    "category": "Domestic publications",
+    "contribution": "",
+    "links": [
+      [
+        "Paper",
+        "https://www.wiss.org/WISS2023Proceedings/data/1-B12.pdf"
+      ]
+    ],
+    "image": "/assets/academic-home/images/figure-47.webp",
+    "citation": "佐藤優稀，齊藤大智，Chen-Chieh Liao，宮藤詩緒，吉村奈津江，小池英樹, '' 音楽聴取時の脳波の 周波数解析に基づくジャンル分類,'' 日本ソフトウェア科学会，第 31 回インタラクティブシステムと ソフトウェアに関するワークショップ（WISS2023）デモ発表，No. 1-B12，3 pages, 2023.",
+    "image_kind": "Research figure"
+  },
+  {
+    "id": 50,
+    "title": "Motion Capture Dataset for Practical Use of AI-based Motion Editing and Stylization",
+    "authors": "Makito Kobayashi, Chen-Chieh Liao, Keito Inoue, Sentaro Yojima, and Masafumi Takahashi",
+    "venue": "arXiv",
+    "year": 2023,
+    "topic": "Motion & generation",
+    "contribution": "Provide captured motion with varied styles and an industry-standard skeletal structure.",
+    "links": [
+      [
+        "Project",
+        "https://github.com/BandaiNamcoResearchInc/Bandai-Namco-Research-Motiondataset"
+      ]
+    ],
+    "image": "/assets/academic-home/images/figure-50.webp",
+    "category": "Preprints & manuscripts",
+    "image_kind": "Research figure"
+  },
+  {
+    "id": 3,
+    "title": "AI Golf: Golf Swing Analysis Tool for Self-Training",
+    "authors": "Chen-Chieh Liao, Dong-Hyun Hwang, and Hideki Koike",
+    "venue": "IEEE Access",
+    "year": 2022,
+    "topic": "Skill & interaction",
+    "contribution": "Combine motion synchronization, latent discrepancy detection and intermediate-pose reconstruction.",
+    "links": [
+      [
+        "Paper",
+        "https://doi.org/10.1109/ACCESS.2022.3210261"
+      ]
+    ],
+    "image": "/assets/academic-home/images/figure-3.webp",
+    "category": "Journal articles",
+    "image_kind": "Research figure"
+  },
+  {
+    "id": 30,
+    "title": "Context-aware Risk Degree Prediction for Smartphone Zombies",
+    "authors": "Erwin Wu, Chen-Chieh Liao, Ruofan Liu, and Hideki Koike",
+    "venue": "SIGGRAPH",
+    "year": 2022,
+    "topic": "Motion & generation",
+    "contribution": "Combine scene/obstacle cues and user attention for context-aware risk prediction.",
+    "links": [
+      [
+        "Paper",
+        "https://doi.org/10.1145/3532719.3543197"
+      ]
+    ],
+    "image": "/assets/academic-home/images/30.webp",
+    "category": "Demos & posters",
+    "image_kind": "Research figure"
+  },
+  {
+    "id": 31,
+    "title": "Synchronized Hand Difference Visualization for Piano Learning",
+    "authors": "Ruofan Liu, Erwin Wu, Chen-Chieh Liao, Hayato Nishioka, Shinichi Furuya, and Hideki Koike",
+    "venue": "SIGGRAPH",
+    "year": 2022,
+    "topic": "Skill & interaction",
+    "contribution": "Synchronize teacher/student motion and compare hand overlay with a two-keyboard display.",
+    "links": [
+      [
+        "Paper",
+        "https://doi.org/10.1145/3532719.3543196"
+      ],
+      [
+        "Video",
+        "https://www.youtube.com/watch?v=NozInC5zxTM"
+      ],
+      [
+        "Video",
+        "https://www.youtube.com/watch?v=G0j-qdm_Nxw"
+      ]
+    ],
+    "image": "/assets/academic-home/images/31.webp",
+    "category": "Demos & posters",
+    "image_kind": "Research figure"
+  },
+  {
+    "id": 32,
+    "title": "Virtual Club Shadow: A Real-time Projection of Golf Club Trajectory",
+    "authors": "Chen-Chieh Liao, Haruki Kikuchi, Dong-Hyun Hwang, and Hideki Koike",
+    "venue": "ISMAR Adjunct",
+    "year": 2022,
+    "topic": "Skill & interaction",
+    "contribution": "Project club trajectory and orientation-dependent color onto the ground in real time.",
+    "links": [
+      [
+        "Paper",
+        "https://doi.org/10.1109/ISMAR-Adjunct57072.2022.00177"
+      ]
+    ],
+    "image": "/assets/academic-home/images/figure-32.webp",
+    "category": "Demos & posters",
+    "image_kind": "Research figure"
+  },
+  {
+    "id": 48,
+    "title": "Visualizing Discrepancy of Hand Postures for Performing Piano",
+    "authors": "Ruofan Liu，Erwin Wu，Chen-Chieh Liao，西岡勇人，古屋晋一，小池英樹",
+    "venue": "WISS",
+    "year": 2022,
+    "topic": "Skill & interaction",
+    "category": "Domestic publications",
+    "contribution": "",
+    "links": [
+      [
+        "Paper",
+        "https://www.wiss.org/WISS2022Proceedings/data/1-B10.pdf"
+      ]
+    ],
+    "image": "/assets/academic-home/images/figure-48.webp",
+    "citation": "Ruofan Liu，Erwin Wu，Chen-Chieh Liao，西岡勇人，古屋晋一，小池英樹, ''Visualizing Discrepancy of Hand Postures for Performing Piano,'' 日本ソフトウェア科学会，第 30 回インタラクティブシステ ムとソフトウェアに関するワークショップ（WISS2022）デモ発表，No. 1-B10，3 pages, 2022.",
+    "image_kind": "Research figure"
+  },
+  {
+    "id": 33,
+    "title": "How Can I Swing Like Pro?: Golf Swing Analysis Tool for Self Training",
+    "authors": "Chen-Chieh Liao, Dong-Hyun Hwang, and Hideki Koike",
+    "venue": "SIGGRAPH Asia",
+    "year": 2021,
+    "topic": "Skill & interaction",
+    "contribution": "Align videos using learned temporal features, identify discrepant keyframes and display synchronized poses.",
+    "links": [
+      [
+        "Paper",
+        "https://doi.org/10.1145/3476124.3488645"
+      ]
+    ],
+    "image": "/assets/academic-home/images/figure-33.webp",
+    "category": "Demos & posters",
+    "image_kind": "Research figure"
+  },
+  {
+    "id": 49,
+    "title": "クラブヘッドの軌道・姿勢の実時間床投影によるゴルフスイング練習システム",
+    "authors": "菊地陽樹，廖振傑，Hwang Dong-Hyun，小池英樹",
+    "venue": "WISS",
+    "year": 2021,
+    "topic": "Skill & interaction",
+    "category": "Domestic publications",
+    "contribution": "",
+    "links": [
+      [
+        "Paper",
+        "https://www.wiss.org/WISS2021Proceedings/data/2-A03.pdf"
+      ]
+    ],
+    "image": "/assets/academic-home/images/figure-49.webp",
+    "citation": "菊地陽樹，廖振傑，Hwang Dong-Hyun，小池英樹, '' クラブヘッドの軌道・姿勢の実時間床投影によ るゴルフスイング練習システム,'' 日本ソフトウェア科学会，第 29 回インタラクティブシステムとソ フトウェアに関するワークショップ（WISS2021）デモ発表，No. 2-A03，3 pages, 2021.",
+    "image_kind": "Research figure"
+  },
+  {
+    "id": 23,
+    "title": "Realtime Center of Mass Adjustment via Weight Switching Device inside a Golf Putter",
+    "authors": "Chen-Chieh Liao, Hideki Koike, and Takuto Nakamura",
+    "venue": "CHI EA",
+    "year": 2020,
+    "topic": "Skill & interaction",
+    "contribution": "Shift a putter's center of mass during the downswing.",
+    "links": [
+      [
+        "Paper",
+        "https://doi.org/10.1145/3334480.3383030"
+      ]
+    ],
+    "image": "/assets/academic-home/images/figure-23.webp",
+    "category": "Conference papers",
+    "image_kind": "Research figure"
+  }
+]
