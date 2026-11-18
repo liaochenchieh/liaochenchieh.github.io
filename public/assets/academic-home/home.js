@@ -8,5 +8,3 @@ function filter(){
  document.getElementById('empty').hidden=n>0;
 }
 fields.forEach(f=>f.addEventListener(f.id==='search'?'input':'change',filter));
-function languageLinks(){for(const link of document.querySelectorAll('.language-switch a')){const url=new URL(link.href);url.hash=location.hash;link.href=url.href;}}
-window.addEventListener('hashchange',languageLinks);languageLinks();
