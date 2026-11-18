@@ -22,4 +22,6 @@ def main():
  assert n==1
  (ROOT/'index.html').write_text(s)
  print(f'Updated {len(papers)} publication entries.')
+ from update_japanese import main as update_japanese
+ update_japanese()
 if __name__=='__main__':main()

@@ -35,3 +35,9 @@ The previous working tree, including uncommitted homepage edits and local develo
 `/Users/koike19/Desktop/Progress/repository-backups/liaochenchieh-before-static-20261118`
 
 Git history remains in this repository. No commit or push was made during migration.
+
+## English / 日本語
+
+The language switch links `/` and `/jp.html` and preserves the current section. Both are static pages and work without JavaScript; JavaScript handles filters and section preservation. Paper titles and author names retain their original published language.
+
+Edit Japanese introduction text in `public/data/intro-ja.html`, and interface/section translations in `public/data/ja.json`. After editing English content or translations, run `python3 tools/update_japanese.py`. Updating publication records with `tools/update_publications.py` also refreshes the Japanese page. No build is required for serving or deployment.

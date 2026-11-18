@@ -28,3 +28,21 @@ assert not missing,f'Missing assets or targets: {missing}'
 for path in ['.nojekyll','projects/motion-style-slider/index.html','jp.html','assets/pdf/CV.pdf']:
  assert (ROOT/path).is_file(),path
 print(f'PASS: {page.papers} publications; local links/assets, anchors, and retained routes verified.')
+
+# Japanese page must carry the same publication records and stable filter values.
+ja=(ROOT/'jp.html').read_text();jpage=Page();jpage.feed(ja)
+assert '<html lang="ja">' in ja
+assert jpage.papers==page.papers
+assert set(jpage.ids)==set(page.ids)
+assert 'Rinji' not in ja and '2026年–現在' in ja
+assert 'value="Domestic publications"' in ja
+assert 'href="/jp.html"' in s and 'href="/"' in ja
+for ref in jpage.refs:
+ u=urlparse(ref)
+ if u.scheme or u.netloc:continue
+ if not u.path:
+  assert not u.fragment or u.fragment in jpage.ids,ref
+ else:
+  target=ROOT/unquote(u.path.lstrip('/'))
+  assert target.is_file() or (target/'index.html').is_file(),ref
+print('PASS: matching Japanese publications, language links, filter values, and local assets.')
