@@ -24,6 +24,7 @@ def main():
  s=s.replace('rel="canonical" href="https://liaochenchieh.github.io/"','rel="canonical" href="https://liaochenchieh.github.io/jp.html"').replace('property="og:url" content="https://liaochenchieh.github.io/"','property="og:url" content="https://liaochenchieh.github.io/jp.html"')
  s=s.replace('hreflang="en" aria-current="page"','hreflang="en"').replace('href="/jp.html" lang="ja" hreflang="ja"','href="/jp.html" lang="ja" hreflang="ja" aria-current="page"')
  s=s.replace('aria-label="Main navigation"','aria-label="メインナビゲーション"').replace('aria-label="Language"','aria-label="言語切り替え"').replace('placeholder="Title, author, or keyword"','placeholder="論文名・著者・キーワード"')
+ s=s.replace('aria-label="Academic and industry experience"','aria-label="大学・企業での経験"')
  s=s.replace('Research figure:','研究図：').replace(' research figure"','の研究図"')
  s=s.replace(' and <a href="#project-7">',' と <a href="#project-7">').replace(' accepted to ECCV 2026.',' がECCV 2026に採択されました。').replace(' accepted to NeurIPS 2025.',' がNeurIPS 2025に採択されました。')
  s=s.replace('Started a <a href="#funding">JSPS KAKENHI Early-Career Scientists project</a> on motion style transfer for sports skill acquisition.','動作スタイル転移によるスポーツ技能獲得支援をテーマとする<a href="#funding">科研費・若手研究</a>を開始しました。')
