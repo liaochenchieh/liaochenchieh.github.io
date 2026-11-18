@@ -107,3 +107,5 @@ body.readable .hero .links{gap:12px;font-size:13px}
 .mark .cygames-crop img{position:absolute;width:153.77%;max-width:none;max-height:none;height:auto;left:-26.89%;top:-129.61%}
 @media(max-width:1050px) and (min-width:761px){body.readable .hero{grid-template-columns:130px 1fr 310px;gap:20px}body.readable .hero .portrait{width:130px;height:130px}body.readable .hero h1{font-size:30px}}
 @media(max-width:760px){body.readable .hero{grid-template-columns:95px minmax(0,1fr);gap:22px 18px}body.readable .hero .portrait{width:95px;height:95px}body.readable .hero h1{font-size:28px}body.readable .hero .eyebrow{font-size:9px}body.readable .hero h1 span{font-size:15px}body.readable .hero .position{font-size:14px}.logo-panel{grid-row:2;grid-column:1/-1;max-width:none}.logo-grid{gap:15px 22px}}
+
+.readable .intro-grid .opportunities-heading{margin-top:24px;margin-bottom:8px}
